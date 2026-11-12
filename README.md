@@ -21,7 +21,9 @@ I'm looking for a fresher role as a **Python Developer** or **Generative AI Engi
 |---|---|
 | **Languages** | Python, SQL, HTML, CSS |
 | **Backend** | Django, Flask |
-| **Generative AI** | Google Gemini API, prompt engineering |
+| **Generative AI** | Google Gemini API, OpenAI API, LangChain, prompt engineering |
+| **RAG** | Retrieval-Augmented Generation, embeddings, vector databases, document chunking |
+| **AI apps** | Streamlit |
 | **Databases** | SQLite, Django ORM |
 | **Tools** | Git, GitHub, VS Code, Python virtual environments |
 
@@ -40,12 +42,6 @@ My focus was the **admin side**: the admin dashboard and its content, and adding
 A chatbot that answers questions about the Ticketify codebase. It sends Gemini the project's real source files with strict "don't invent anything, cite the file" rules, so answers stay grounded in the actual code.
 
 More HTML, CSS and Python learning exercises are in my [repositories](https://github.com/Aarthi23115?tab=repositories).
-
-## 📚 Currently learning
-
-- Retrieval-Augmented Generation (RAG): chunking, embeddings and vector search
-- Deploying Python web apps (PythonAnywhere, Render)
-- Writing cleaner, well-tested Python
 
 ## 📫 Contact
 
