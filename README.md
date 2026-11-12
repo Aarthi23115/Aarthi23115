@@ -41,13 +41,12 @@ My focus was the **admin side**: the admin dashboard and its content, and adding
 
 A chatbot that answers questions about the Ticketify codebase. It sends Gemini the project's real source files with strict "don't invent anything, cite the file" rules. It runs on its own, limits how many questions each visitor can ask, and has unit tests that fake the Gemini call.
 
-### 🎬 [Movie OTT Website](https://github.com/Aarthi23115/Movie-Ott-website): static streaming-site UI
-**HTML · CSS** · [Live site](https://aarthi23115.github.io/Movie-Ott-website/)
-
-A multi-page movie catalogue with a separate page for each film.
-
 ### 🧮 [Calculator](https://github.com/Aarthi23115/calculator): JavaScript calculator
 **HTML · CSS · JavaScript** · [Live site](https://aarthi23115.github.io/calculator/)
+
+A responsive calculator with keyboard support, input checks and accessible button labels.
+
+More HTML, CSS, JavaScript and Python learning exercises are in my [repositories](https://github.com/Aarthi23115?tab=repositories).
 
 ## 📚 Currently learning
 
