@@ -19,18 +19,16 @@ I'm looking for a fresher role as a **Python Developer** or **Generative AI Engi
 
 | Area | Skills |
 |---|---|
-| **Languages** | Python, JavaScript, HTML, CSS, SQL (SQLite) |
-| **Backend** | Django, Django REST Framework, Flask, REST APIs |
-| **Generative AI** | Google Gemini API (`google-genai` SDK), prompt engineering, grounding answers in project context |
+| **Languages** | Python, SQL, HTML, CSS |
+| **Backend** | Django, Flask |
+| **Generative AI** | Google Gemini API, prompt engineering |
 | **Databases** | SQLite, Django ORM |
-| **Frontend** | Bootstrap 5, responsive layouts, vanilla JavaScript |
-| **Testing** | Django `TestCase`, Python `unittest` with mocking |
-| **Tools** | Git, GitHub, GitHub Pages, VS Code, virtual environments |
+| **Tools** | Git, GitHub, VS Code, Python virtual environments |
 
 ## 🚀 Featured projects
 
 ### 🎟️ [Ticketify](https://github.com/Aarthi23115/Ticketify-): event ticket booking platform
-**Django · Django REST Framework · SQLite · Bootstrap 5**
+**Python · Django · SQLite**
 
 A team project (with Nikhil Bogawar). Users browse and book events and get a **live QR ticket that refreshes every 30 seconds**. Organizers check tickets in by scanning, and the database locks the booking so a ticket can't be used twice.
 
@@ -39,14 +37,9 @@ My focus was the **admin side**: the admin dashboard and its content, and adding
 ### 🤖 [Ticketify AI Chatbot](https://github.com/Aarthi23115/Ticketify-AI-Chatbot): GenAI code assistant
 **Python · Flask · Google Gemini**
 
-A chatbot that answers questions about the Ticketify codebase. It sends Gemini the project's real source files with strict "don't invent anything, cite the file" rules. It runs on its own, limits how many questions each visitor can ask, and has unit tests that fake the Gemini call.
+A chatbot that answers questions about the Ticketify codebase. It sends Gemini the project's real source files with strict "don't invent anything, cite the file" rules, so answers stay grounded in the actual code.
 
-### 🧮 [Calculator](https://github.com/Aarthi23115/calculator): JavaScript calculator
-**HTML · CSS · JavaScript** · [Live site](https://aarthi23115.github.io/calculator/)
-
-A responsive calculator with keyboard support, input checks and accessible button labels.
-
-More HTML, CSS, JavaScript and Python learning exercises are in my [repositories](https://github.com/Aarthi23115?tab=repositories).
+More HTML, CSS and Python learning exercises are in my [repositories](https://github.com/Aarthi23115?tab=repositories).
 
 ## 📚 Currently learning
 
