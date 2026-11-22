@@ -1,8 +1,8 @@
 # Hi, I'm Aarthi Erra 👋
 
-**Aspiring Python Developer & Generative AI Engineer** · Fresher · Open to full-time roles in Hyderabad or remote
+**Aspiring Python Developer & Generative AI Engineer** · B.Tech CSE (2026) · Open to full-time roles in Hyderabad
 
-I build web applications with **Python, Django and Flask**, and I'm focused on **Generative AI**: connecting large language models such as Google Gemini to real projects, with prompts that keep answers grounded in actual source code.
+I build web applications with **Python, Django and Flask**, and AI applications with **LangChain**: RAG chatbots and AI agents that call tools such as live weather APIs, Google Search and calculators.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarthi%20Erra-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi-erra-60142a338/)
 
@@ -10,36 +10,39 @@ I build web applications with **Python, Django and Flask**, and I'm focused on *
 
 ## 🎯 Career objective
 
-I'm looking for a fresher role as a **Python Developer** or **Generative AI Engineer**. There I want to:
-- build reliable backend services
-- integrate LLMs into useful products
-- keep growing in AI engineering practices such as retrieval, evaluation and safe deployment
+I'm looking for a fresher role as a **Python Developer**, **Software Engineer** or **Generative AI Engineer**, where I can:
+- build reliable backend services and web applications
+- integrate LLMs, RAG and AI agents into useful products
+- keep growing in cloud, automation and AI engineering
 
 ## 🛠️ Technical skills
 
 | Area | Skills |
 |---|---|
-| **Languages** | Python, SQL, HTML, CSS |
-| **Backend** | Django, Flask |
-| **Generative AI** | Google Gemini API, OpenAI API, LangChain, prompt engineering |
-| **RAG** | Retrieval-Augmented Generation, embeddings, vector databases, document chunking |
-| **AI apps** | Streamlit |
-| **Databases** | SQLite, Django ORM |
-| **Tools** | Git, GitHub, VS Code, Python virtual environments |
+| **Programming** | Python, SQL |
+| **Core concepts** | Object-Oriented Programming, Data Structures and Algorithms, SDLC |
+| **Web development** | Django, Flask, HTML, CSS, REST API integration |
+| **Generative AI** | LangChain, RAG, prompt engineering, LLM integration, AI agents (tool calling) |
+| **Retrieval** | Embeddings, vector databases, semantic search, document chunking |
+| **Databases** | MySQL, SQLite |
+| **Testing & tools** | pytest, Git, GitHub, VS Code, Streamlit |
 
 ## 🚀 Featured projects
 
+### 🤖 [AI Agents](https://github.com/Aarthi23115/ai-agents): multi-tool AI agent
+**Python · LangChain · LLM · REST APIs**
+
+One AI agent that **chooses the right tool for each question**: live weather (Open-Meteo APIs), Google Search or calculator. It can use **several tools for one question** (for example, "weather in London and 25 × 4") and has **conversation memory**, so follow-up questions like "and Mumbai?" just work.
+
 ### 🎟️ [Ticketify](https://github.com/Aarthi23115/Ticketify-): event ticket booking platform
-**Python · Django · SQLite**
+**Python · Django · Flask · SQLite**
 
-A team project (with Nikhil Bogawar). Users browse and book events and get a **live QR ticket that refreshes every 30 seconds**. Organizers check tickets in by scanning, and the database locks the booking so a ticket can't be used twice.
+A full-stack web application (team project with Nikhil Bogawar). Users register, log in, explore events and book tickets online, and get a **QR ticket that refreshes every 30 seconds** so screenshots can't be reused. Recognized among the **Top 5 projects** in the Edunet NextGen Employability Program.
 
-My focus was the **admin side**: the admin dashboard and its content, and adding and managing events, locations and ticket prices.
+### 💬 [Ticketify AI Chatbot](https://github.com/Aarthi23115/Ticketify-AI-Chatbot): RAG chatbot
+**Python · Flask · LLM**
 
-### 🤖 [Ticketify AI Chatbot](https://github.com/Aarthi23115/Ticketify-AI-Chatbot): GenAI code assistant
-**Python · Flask · Google Gemini**
-
-A chatbot that answers questions about the Ticketify codebase. It sends Gemini the project's real source files with strict "don't invent anything, cite the file" rules, so answers stay grounded in the actual code.
+A chatbot that answers questions about the Ticketify project from its documents, with strict "don't invent anything" rules so answers stay grounded in the real source.
 
 More HTML, CSS and Python learning exercises are in my [repositories](https://github.com/Aarthi23115?tab=repositories).
 
