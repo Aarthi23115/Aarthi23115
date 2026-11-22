@@ -4,7 +4,7 @@
 
 I build web applications with **Python, Django and Flask**, and AI applications with **LangChain**: RAG chatbots and AI agents that call tools such as live weather APIs, Google Search and calculators.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarthi%20Erra-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi-erra-60142a338/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aarthi23115.github.io-8B5CF6?logo=googlechrome&logoColor=white)](https://aarthi23115.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarthi%20Erra-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi-erra-60142a338/)
 
 ---
 
@@ -48,4 +48,4 @@ More HTML, CSS and Python learning exercises are in my [repositories](https://gi
 
 ## 📫 Contact
 
-The best way to reach me is **[LinkedIn](https://www.linkedin.com/in/aarthi-erra-60142a338/)**.
+The best way to reach me is **[LinkedIn](https://www.linkedin.com/in/aarthi-erra-60142a338/)**. See more about me on my **[portfolio website](https://aarthi23115.github.io)**.
